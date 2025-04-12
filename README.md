@@ -1,6 +1,6 @@
 # Image Classification Model - Premier League Teams
 
-Proyek ini merupakan klasifikasi gambar untuk mengenali logo tim-tim sepak bola Liga Inggris (Premier League). Model dilatih menggunakan TensorFlow dan diekspor dalam beberapa format: `.h5`, `.tflite`, dan `TensorFlow.js`.
+Proyek ini merupakan klasifikasi gambar untuk mengenali logo tim-tim sepak bola Liga Inggris (Premier League). Model dilatih menggunakan TensorFlow dan diekspor dalam beberapa format: `SavedModel`, `.tflite`, dan `TensorFlow.js`.
 
 ---
 
